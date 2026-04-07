@@ -468,7 +468,7 @@ with ctrl2:
 
 with ctrl3:
     st.markdown(
-        '<div class="toolbar-note">Assign a score from 1 to 7 for each factor, then click <b>Generate result</b> to view the recommended efficient frequency.</div>',
+        '<div class="</div>',
         unsafe_allow_html=True,
     )
 
