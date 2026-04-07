@@ -447,7 +447,7 @@ st.markdown(
             <div class="hero-box">
                 <div class="hero-title">Frequency Estimator</div>
                 <div class="hero-subtitle">
-                    Simple, professional calculator for estimating desired effective frequency using brand, creative, and media evaluation factors.
+                    Adapted from the Ostrow Model, with customizable factors based on campaign needs
                 </div>
             </div>
         </div>
@@ -549,4 +549,4 @@ with right:
 
     st.markdown('</div>', unsafe_allow_html=True)
 
-st.caption("Built to mirror the Excel logic while making day-to-day brand scoring faster and easier.")
+st.caption("Joseph W. Ostrow - Frequency Estimator Model 1982")
